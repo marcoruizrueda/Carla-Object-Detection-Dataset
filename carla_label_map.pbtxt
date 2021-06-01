@@ -1,0 +1,24 @@
+item {
+ id: 1
+ name: 'Vehicle'
+}
+
+item {
+ id: 2
+ name: 'Bike'
+}
+
+item {
+ id: 3
+ name: 'Motobike'
+}
+
+item {
+ id: 4
+ name: 'Traffic light'
+}
+
+item {
+ id: 5
+ name: 'Traffic sign'
+}
