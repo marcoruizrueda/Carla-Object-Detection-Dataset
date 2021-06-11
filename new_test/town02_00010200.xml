@@ -1,0 +1,14 @@
+<annotation>
+	<folder>pre_processed</folder>
+	<filename>town02_00010200.png</filename>
+	<path>/home/tanya/carla-dataset/pre_processed/town02_00010200.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

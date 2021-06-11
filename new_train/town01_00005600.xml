@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_train</folder>
+	<filename>town01_00005600.png</filename>
+	<path>/home/marco/carla_training/Carla-Object-Detection-Dataset/new_train/town01_00005600.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>54</ymin>
+			<xmax>549</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

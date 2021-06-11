@@ -1,0 +1,26 @@
+<annotation>
+	<folder>town03</folder>
+	<filename>town03_00031700.png</filename>
+	<path>/home/tanya/carla-dataset/done/town03/town03_00031700.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>189</ymin>
+			<xmax>513</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>
